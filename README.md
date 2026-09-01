@@ -215,14 +215,6 @@ The application focuses on:
 
 ---
 
-## App Demo
-
-A short walkthrough showcasing the application's invoice workflow, interface, customization features, and overall user experience.
-
-![Invoice Maker Demo](assets/videos/app_demo.gif)
-
----
-
 ## Technical Focus
 
 This project allowed me to work across multiple areas of production mobile development:
