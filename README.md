@@ -236,7 +236,7 @@ The dashboard turns invoice activity into visual information that can help users
 
 The application combines Flutter-based mobile interfaces with business workflows, document generation, Firebase services, analytics, notifications, and monetization components.
 
-![Application Architecture](assets/diagrams/architecture.png)
+![Application Architecture](assets/diagrams/architectur.png)
 
 ## Main Functional Areas
 
